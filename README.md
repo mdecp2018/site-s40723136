@@ -1,2 +1,1 @@
-#40723136倉儲
-print"github 倉儲" 
+github倉儲
