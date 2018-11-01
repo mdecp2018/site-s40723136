@@ -1962,6 +1962,7 @@ def ssavePage():
 def syntaxhighlight():
     return '''
 <script type="text/javascript" src="/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="/static/syntaxhighlighter/shBrushBash.js"></script>
 <script type="text/javascript" src="/static/syntaxhighlighter/shBrushJScript.js"></script>
 <script type="text/javascript" src="/static/syntaxhighlighter/shBrushJava.js"></script>
 <script type="text/javascript" src="/static/syntaxhighlighter/shBrushPython.js"></script>
@@ -2007,6 +2008,7 @@ def syntaxhighlight():
 def syntaxhighlight2():
     return '''
 <script type="text/javascript" src="./../static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushBash.js"></script>
 <script type="text/javascript" src="./../static/syntaxhighlighter/shBrushJScript.js"></script>
 <script type="text/javascript" src="./../static/syntaxhighlighter/shBrushJava.js"></script>
 <script type="text/javascript" src="./../static/syntaxhighlighter/shBrushPython.js"></script>
