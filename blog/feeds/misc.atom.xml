@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 彭少鍚的網誌 - Misc</title><link href="https://mdecp2018.github.io/2018fall/blog/" rel="alternate"></link><link href="https://mdecp2018.github.io/2018fall/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecp2018.github.io/2018fall/blog/</id><updated>2018-11-08T20:00:00+08:00</updated><entry><title>2018 Fall 網誌</title><link href="https://mdecp2018.github.io/2018fall/blog/2018-Fall-Project-git.html" rel="alternate"></link><published>2018-11-08T20:00:00+08:00</published><updated>2018-11-08T20:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecp2018.github.io,2018-11-08:/2018fall/blog/2018-Fall-Project-git.html</id><summary type="html">&lt;p&gt;一些 git 的應用&lt;/p&gt;
-&lt;h2&gt;git 的一些指令&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="1000" height="1000" src="https://s40723136.github.io/git/"&gt;&lt;/iframe&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 彭少鍚的網誌 - Misc</title><link href="https://mdecp2018.github.io/2018fall/blog/" rel="alternate"></link><link href="https://mdecp2018.github.io/2018fall/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecp2018.github.io/2018fall/blog/</id><updated>2018-11-08T20:00:00+08:00</updated><entry><title>一些 git 的應用</title><link href="https://mdecp2018.github.io/2018fall/blog/2018-Fall-Project-git.html" rel="alternate"></link><published>2018-11-08T20:00:00+08:00</published><updated>2018-11-08T20:00:00+08:00</updated><author><name>40723136</name></author><id>tag:mdecp2018.github.io,2018-11-08:/2018fall/blog/2018-Fall-Project-git.html</id><summary type="html">&lt;p&gt;一些 git 的應用&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;一些 git 的應用&lt;/p&gt;
 
-&lt;hr&gt;</summary><content type="html">&lt;p&gt;一些 git 的應用&lt;/p&gt;
-&lt;h2&gt;git 的一些指令&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="1000" height="1000" src="https://s40723136.github.io/git/"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 網誌</title><link href="https://mdecp2018.github.io/2018fall/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecp2018.github.io,2018-09-10:/2018fall/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;h2&gt;git 的一些指令&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="1000" height="1000" src="https://s40723136.github.io/git/"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>git 一些指令</title><link href="https://mdecp2018.github.io/2018fall/blog/git.html" rel="alternate"></link><published>2018-11-08T19:00:00+08:00</published><updated>2018-11-08T19:00:00+08:00</updated><author><name>40723136</name></author><id>tag:mdecp2018.github.io,2018-11-08:/2018fall/blog/git.html</id><summary type="html">&lt;p&gt;一些 git 的應用&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;一些 git 的應用&lt;/p&gt;
+
+
+&lt;h2&gt;git 的一些指令&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="1000" height="1000" src="https://s40723136.github.io/git/"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>課程倉儲</title><link href="https://mdecp2018.github.io/2018fall/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecp2018.github.io,2018-09-10:/2018fall/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
