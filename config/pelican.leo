@@ -70,6 +70,7 @@
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20181108194501.1"><vh>git .</vh></v>
 </v>
 </v>
 </v>
@@ -103,6 +104,28 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20181108194501.1">@language md
+---
+Title: git  一些指令
+Date: 2018-09-10 11:00
+Category: Misc
+Tags: 2018Fall
+Slug: 2018-Fall-Project-Blog
+Author: NFUMDE
+---
+
+2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+git 的一些指令
+----
+
+&lt;p&gt;&lt;iframe width="1000" height="1000" src="https://s40723136.github.io/git/"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
