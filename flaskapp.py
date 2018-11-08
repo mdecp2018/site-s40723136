@@ -2000,8 +2000,8 @@ def syntaxhighlight():
 <script type="text/javascript" src="/static/Cango-13v08-min.js"></script>
 <script type="text/javascript" src="/static/CangoAxes-4v01-min.js"></script>
 <script type="text/javascript" src="/static/gearUtils-05.js"></script>
-<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
-<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+<script src="/static/brython.js" type="text/javascript"></script>
+<script src="/static/brython_stdlib.js" type="text/javascript"></script>
 '''
 
 
@@ -2046,8 +2046,8 @@ init_mathjax();
 <script type="text/javascript" src="./../static/Cango-13v08-min.js"></script>
 <script type="text/javascript" src="./../static/CangoAxes-4v01-min.js"></script>
 <script type="text/javascript" src="./../static/gearUtils-05.js"></script>
-<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
-<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+<script src="./../static/brython.js" type="text/javascript"></script>
+<script src="./../static/brython_stdlib.js" type="text/javascript"></script>
 '''
 
 
