@@ -70,7 +70,7 @@
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
-<v t="leo.20181108194501.1"><vh>git .</vh></v>
+<v t="leo.20181108194501.1"><vh>git.md</vh></v>
 </v>
 </v>
 </v>
@@ -107,10 +107,10 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181108194501.1">@language md
 ---
 Title: git  一些指令
-Date: 2018-09-10 11:00
+Date: 2018-11- 8 19:00
 Category: Misc
 Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
+Slug: git
 Author: NFUMDE
 ---
 
