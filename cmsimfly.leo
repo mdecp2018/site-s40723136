@@ -921,33 +921,6 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;script type="text/javascript" src="/static/syntaxhighlighter/shBrushCSharp.js"&gt;&lt;/script&gt;
 &lt;link type="text/css" rel="stylesheet" href="/static/syntaxhighlighter/css/shCoreDefault.css"/&gt;
 &lt;script type="text/javascript"&gt;SyntaxHighlighter.all();&lt;/script&gt;
-
-    &lt;script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"&gt;&lt;/script&gt;
-    &lt;script type="text/javascript"&gt;
-    init_mathjax = function() {
-        if (window.MathJax) {
-            // MathJax loaded
-            MathJax.Hub.Config({
-                tex2jax: {
-                    inlineMath: [ ['$','$'], ["\\\\(","\\\\)"] ],
-                    displayMath: [ ['$$','$$'], ["\\\\[","\\\\]"] ]
-                },
-                displayAlign: 'left', // Change this to 'center' to center equations.
-                "HTML-CSS": {
-                    styles: {'.MathJax_Display': {"margin": 0}}
-                }
-            });
-            MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
-        }
-    }
-    init_mathjax();
-    &lt;/script&gt;
-&lt;script src="/static/fengari-web.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="/static/Cango-13v08-min.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="/static/CangoAxes-4v01-min.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="/static/gearUtils-05.js"&gt;&lt;/script&gt;
-&lt;script src="/static/brython.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="/static/brython_stdlib.js" type="text/javascript"&gt;&lt;/script&gt;
 '''
 
 
@@ -2442,33 +2415,6 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;script type="text/javascript" src="./../static/syntaxhighlighter/shBrushCSharp.js"&gt;&lt;/script&gt;
 &lt;link type="text/css" rel="stylesheet" href="./../static/syntaxhighlighter/css/shCoreDefault.css"/&gt;
 &lt;script type="text/javascript"&gt;SyntaxHighlighter.all();&lt;/script&gt;
-
-&lt;script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script type="text/javascript"&gt;
-init_mathjax = function() {
-    if (window.MathJax) {
-        // MathJax loaded
-        MathJax.Hub.Config({
-            tex2jax: {
-                inlineMath: [ ['$','$'], ["\\\\(","\\\\)"] ],
-                displayMath: [ ['$$','$$'], ["\\\\[","\\\\]"] ]
-            },
-            displayAlign: 'left', // Change this to 'center' to center equations.
-            "HTML-CSS": {
-                styles: {'.MathJax_Display': {"margin": 0}}
-            }
-        });
-        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
-    }
-}
-init_mathjax();
-&lt;/script&gt;
-&lt;script src="./../static/fengari-web.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="./../static/Cango-13v08-min.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="./../static/CangoAxes-4v01-min.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="./../static/gearUtils-05.js"&gt;&lt;/script&gt;
-&lt;script src="./../static/brython.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../static/brython_stdlib.js" type="text/javascript"&gt;&lt;/script&gt;
 '''
 
 
